@@ -89,11 +89,11 @@ h3 {
 /* Images */
 .project-img {
   width: 30%;
-  margin-right: 30px;
+  margin: auto;
 }
 .coding-img {
   width: 30%;
-  margin-left: 30px;
+  margin: auto;
 }
 .profile-img {
   margin: auto;
